@@ -1,0 +1,5 @@
+What is the capital of France?|Paris|London|Berlin|Paris
+Which programming language is known as the "language of the web"?|Python|JavaScript|C++|JavaScript
+What is the largest planet in our solar system?|Earth|Jupiter|Saturn|Jupiter
+Who wrote 'Hamlet'?|Shakespeare|Dickens|Tolstoy|Shakespeare
+What is the boiling point of water at sea level (in °C)?|90|100|120|100
